@@ -20,7 +20,7 @@ Este é um aplicativo de tradução de texto simples desenvolvido em Python usan
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/translator-app.git
+   git clone https://github.com/KcyberShield/translator-app.git
    cd translator-app
    ```
 
